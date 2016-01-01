@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 86a7d351540cf507beb88f8a53ba44990bf7358e Alinur Dzjeenbekov <alinurdzjeenbekov@gmail.com> 1793702459 +0500	commit (initial): chore: import upstream open-source source snapshot
+86a7d351540cf507beb88f8a53ba44990bf7358e fd26cdf7b02c92bfbaeea20bf5125b1bd0d3d3ff Alinur Dzjeenbekov <alinurdzjeenbekov@gmail.com> 1793704623 +0500	commit: docs: explain source setup and preserve upstream attribution
+fd26cdf7b02c92bfbaeea20bf5125b1bd0d3d3ff d6ea2f9ad4feedf679dac1748d2adfb34340cb28 Alinur Dzjeenbekov <alinurdzjeenbekov@gmail.com> 1793763988 +0500	commit: Final commit
